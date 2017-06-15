@@ -4,8 +4,8 @@
 
 MNIST开始渐渐成为一种新的机器学习工具的典型数据集。我们提供三篇教程，每篇展示了使用Tensorflow训练MNIST模型的不同方法：
 * [ML初学者的MNIST](./mnist/MNIST_For_ML_Beginners.ipynb)，通过高层API介绍了MNIST。
-* [深入MNIST](./mnst/Deep_MNIST_for_Experts.ipynb)，比上篇教程更深入，假定读者已熟悉机器学习的概念。
-* [TensorFlow运作方式入门](./mnst/TensorFlow_Mechanics_101.ipynb)，通过底层API介绍MNIST。
+* [深入MNIST](./mnist/Deep_MNIST_for_Experts.ipynb)，比上篇教程更深入，假定读者已熟悉机器学习的概念。
+* [TensorFlow运作方式入门](./mnist/TensorFlow_Mechanics_101.ipynb)，通过底层API介绍MNIST。
 
 对于新接触Tensorflow的开发者来说，这些高层API不失为一个很好的开始。要学这些高层API，浏览以下教程：
 * [tf.contrib.learn Quickstart]()，介绍了这些API。
